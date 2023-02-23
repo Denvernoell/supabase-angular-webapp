@@ -31,3 +31,13 @@
       - useDebugValue
 # Supabase
 - BaaS (Backend as a Service)
+
+# Process
+## Frontend
+- I needed to use yarn instead of npm for vite because the drive I am using has an & in the path and npm cannot handle that
+- Video said that "Type: Module" from package.json was causing an error with playwright
+
+## Supabase CLI
+- `yarn add -D supabase`
+  - For right now this needs to be run twice
+- `npx supabase --help`
