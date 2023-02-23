@@ -41,3 +41,6 @@
 - `yarn add -D supabase`
   - For right now this needs to be run twice
 - `npx supabase --help`
+
+## Playwright
+- yarn create playwright
